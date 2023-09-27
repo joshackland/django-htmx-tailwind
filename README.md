@@ -18,7 +18,7 @@ mv tailwindcss-linux-x64 tailwindcss
 ### - Run the Tailwind watcher
 
 ```bash
-./tailwindcss -i static/css/input.css -o static/css/output.css --watch
+./tailwindcss -i django_htmx_tailwind/static/css/input.css -o django_htmx_tailwind/static/css/output.css --watch
 ```
 
 ### - Run Django's server
